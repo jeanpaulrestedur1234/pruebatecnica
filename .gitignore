@@ -1,0 +1,16 @@
+# Ignorar archivos compilados de Java
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos de dependencias
+*.log
+*.iml
+.idea/
+*.swp
+
+# Configuración del sistema
+.DS_Store
+Thumbs.db
